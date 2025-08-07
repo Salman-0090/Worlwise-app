@@ -83,42 +83,6 @@
         "lat": "40.51075686108761",
         "lng": "-2.5268554687500004"
       }
-    },
-    {
-      "id": "6434",
-      "cityName": "Salmeroncillos de Abajo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-05T10:08:31.463Z",
-      "notes": "",
-      "position": {
-        "lat": "40.51075686108761",
-        "lng": "-2.5268554687500004"
-      }
-    },
-    {
-      "id": "7c9c",
-      "cityName": "Salmeroncillos de Abajo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-05T10:08:31.463Z",
-      "notes": "",
-      "position": {
-        "lat": "40.51075686108761",
-        "lng": "-2.5268554687500004"
-      }
-    },
-    {
-      "id": "d107",
-      "cityName": "Villanueva de Aezcoa",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-05T10:13:08.075Z",
-      "notes": "sfwf",
-      "position": {
-        "lat": "42.970683274531844",
-        "lng": "-1.2084960937500002"
-      }
     }
   ]
 }
