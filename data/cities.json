@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "bea9",
-      "cityName": "San Juan de Gredos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-05T09:46:28.687Z",
-      "notes": "sfs",
-      "position": {
-        "lat": "40.30923381676327",
-        "lng": "-5.229492187500001"
-      }
-    },
-    {
-      "id": "d1cc",
-      "cityName": "San Juan de Gredos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-05T09:51:38.700Z",
-      "notes": "",
-      "position": {
-        "lat": "40.30923381676327",
-        "lng": "-5.229492187500001"
-      }
-    },
-    {
-      "id": "9ca2",
-      "cityName": "Salmeroncillos de Abajo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-05T10:02:23.277Z",
-      "notes": "",
-      "position": {
-        "lat": "40.51075686108761",
-        "lng": "-2.5268554687500004"
-      }
-    },
-    {
-      "id": "db86",
-      "cityName": "Salmeroncillos de Abajo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-05T10:02:23.277Z",
-      "notes": "",
-      "position": {
-        "lat": "40.51075686108761",
-        "lng": "-2.5268554687500004"
-      }
     }
   ]
 }
